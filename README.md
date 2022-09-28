@@ -2,3 +2,6 @@
 
 fetch & merge<br>
 try
+A
+B
+C
