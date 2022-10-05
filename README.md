@@ -5,5 +5,3 @@ try
 A
 B
 C
-D
-e
