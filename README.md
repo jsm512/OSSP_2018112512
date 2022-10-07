@@ -1,5 +1,3 @@
 # OSSP_2018112512
 OSSProj_#4
-SEUNG MIN JIN
-<br>
-ISE
+A
